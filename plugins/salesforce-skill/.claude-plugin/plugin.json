@@ -1,0 +1,9 @@
+{
+  "name": "salesforce-skill",
+  "version": "1.0.0",
+  "description": "Connect to, query, and explore your Salesforce instance with a shared team knowledge base",
+  "author": {
+    "name": "Aleph Ventures",
+    "email": "gilad@aleph.vc"
+  }
+}

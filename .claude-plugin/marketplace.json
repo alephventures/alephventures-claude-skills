@@ -1,5 +1,6 @@
 {
   "name": "alephventures-plugins",
+  "description": "Shared Claude Code plugins for the Aleph Ventures team",
   "owner": {
     "name": "Aleph Ventures",
     "email": "gilad@aleph.vc"
@@ -7,7 +8,7 @@
   "plugins": [
     {
       "name": "alephventures-claude-skills",
-      "source": ".",
+      "source": "./plugins/salesforce-skill",
       "description": "Salesforce integration, shared knowledge base, and team skills",
       "version": "1.0.0"
     }
