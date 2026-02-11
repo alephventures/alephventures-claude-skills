@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "salesforce": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/salesforce-mcp"],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "alephventures-claude-skills",
+  "version": "1.0.0",
+  "description": "Aleph Ventures shared Claude Code skills — Salesforce, knowledge base, and more",
+  "author": "alephventures",
+  "license": "MIT",
+  "skills": [
+    "skills/salesforce",
+    "skills/sf-teach"
+  ],
+  "mcp": [
+    ".mcp.json"
+  ],
+  "scripts": {
+    "setup": "scripts/setup.sh"
+  }
+}
