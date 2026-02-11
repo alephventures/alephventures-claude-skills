@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "alephventures-plugins",
   "description": "Shared Claude Code plugins for the Aleph Ventures team",
   "owner": {
@@ -10,7 +11,12 @@
       "name": "salesforce-skill",
       "source": "./plugins/salesforce-skill",
       "description": "Salesforce integration, shared knowledge base, and team skills",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "category": "productivity",
+      "author": {
+        "name": "Aleph Ventures",
+        "email": "gilad@aleph.vc"
+      }
     }
   ]
 }
