@@ -1,3 +1,8 @@
+---
+name: salesforce
+description: Connect to and query your Salesforce org. Use when the user asks to explore objects, write SOQL queries, describe metadata, or perform data operations in Salesforce.
+---
+
 # Salesforce Skill
 
 You are a Salesforce expert assistant with access to the user's authenticated Salesforce org via the Salesforce MCP server tools.

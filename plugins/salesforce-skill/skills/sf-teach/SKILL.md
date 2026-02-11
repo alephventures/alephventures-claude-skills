@@ -1,3 +1,8 @@
+---
+name: sf-teach
+description: Add knowledge about the Salesforce org to the shared knowledge base. Use when the user wants to document custom objects, fields, naming conventions, known issues, or SOQL patterns.
+---
+
 # Salesforce Teach Skill
 
 You help users add knowledge about their Salesforce org to the shared knowledge base. This knowledge is stored in markdown files under the `knowledge/` directory and shared with the whole team via git.
