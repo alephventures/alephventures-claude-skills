@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "alephventures-claude-skills",
+      "name": "salesforce-skill",
       "source": "./plugins/salesforce-skill",
       "description": "Salesforce integration, shared knowledge base, and team skills",
       "version": "1.0.0"
