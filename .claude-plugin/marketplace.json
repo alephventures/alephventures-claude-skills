@@ -1,18 +1,15 @@
 {
-  "title": "Aleph Ventures Claude Skills",
-  "tagline": "Shared Claude Code skills for the Aleph Ventures team",
-  "categories": ["salesforce", "crm", "data", "enterprise"],
-  "icon": "🚀",
-  "readme": "../README.md",
-  "keywords": [
-    "salesforce",
-    "soql",
-    "crm",
-    "apex",
-    "metadata",
-    "data-management",
-    "knowledge-base"
-  ],
-  "repository": "https://github.com/alephventures/alephventures-claude-skills",
-  "minClaudeCodeVersion": "1.0.0"
+  "name": "alephventures-plugins",
+  "owner": {
+    "name": "Aleph Ventures",
+    "email": "gilad@aleph.vc"
+  },
+  "plugins": [
+    {
+      "name": "alephventures-claude-skills",
+      "source": "..",
+      "description": "Salesforce integration, shared knowledge base, and team skills",
+      "version": "1.0.0"
+    }
+  ]
 }
